@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet');
+
+body {
+    background-color: black;
+}
+
+#clock {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 200px;
+    color: #63FF39;
+    text-align: center;
+    padding-top: 50px;
+}
